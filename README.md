@@ -3,7 +3,7 @@
 A macOS menu bar utility that gives you independent control over mouse and trackpad scrolling behavior.
 
 ![macOS](https://img.shields.io/badge/macOS-11.0+-blue)
-![Platform](https://img.shields.io/badge/platform-Apple%20Silicon-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Apple%20Silicon%20(arm64)-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Why This App?
@@ -28,8 +28,10 @@ Ever switched between a MacBook trackpad and an external mouse, only to find you
 ### System Requirements
 
 - macOS 11.0 (Big Sur) or later
-- Apple Silicon (arm64) or Intel Mac
+- **Apple Silicon (M1/M2/M3/M4) Mac only** - arm64 architecture
 - Accessibility permission (requested on first launch)
+
+> ⚠️ **Note:** This version is compiled for Apple Silicon only. Intel Mac users need to run under Rosetta or request a universal binary.
 
 ## Installation
 
