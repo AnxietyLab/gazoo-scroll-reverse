@@ -4,7 +4,7 @@ A macOS menu bar utility that gives you independent control over mouse and track
 
 ![macOS](https://img.shields.io/badge/macOS-11.0+-blue)
 ![Platform](https://img.shields.io/badge/platform-Apple%20Silicon%20(arm64)-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Freeware-green)
 
 ## Why This App?
 
@@ -134,8 +134,8 @@ Then relaunch from Applications.
 
 - **No network access** - App runs entirely offline
 - **No data collection** - Zero analytics or telemetry
-- **Open source** - Audit the code if desired (source available on request)
 - **Notarized by Apple** - Verified malware-free
+- **Closed source** - Binary distribution only
 
 The Accessibility permission is used solely to intercept scroll events. The app does not access keyboard input, screen recording, or any other sensitive data.
 
@@ -185,7 +185,7 @@ Found a bug or have a feature request? [Open an issue](https://github.com/Anxiet
 
 ## License
 
-MIT License - Free to use, modify, and distribute.
+Freeware - Free to use and distribute. All rights reserved. No source code provided.
 
 ---
 
